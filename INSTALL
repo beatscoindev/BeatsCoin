@@ -1,0 +1,9 @@
+Building BeatsCoin
+
+See doc/readme-qt.rst for instructions on building BeatsCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BeatsCoin.
+
+See doc/build-*.txt for instructions on building BeatsCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BeatsCoin.
